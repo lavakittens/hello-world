@@ -1,0 +1,17 @@
+const myName = "Diana Walsh";
+
+let age = 20;
+let favColor = "red";
+let doneCoding = false;
+
+console.log("My name is " + myName +  ". I'm " + age + " years old and my favorite color is " + favColor + ".");
+
+favColor = "teal";
+
+console.log("My second favorite color is " + favColor + ".");
+
+age = 21;
+
+console.log("I'll be " + age + " in September.");
+
+doneCoding = true;
